@@ -1,10 +1,5 @@
-# Dicoding-collection-dashboard
-Membuat tampipilan dashboard sederhana menggunakan Streamlite<br>
-Sebelum melakukan pengembangan dashboard, perlu melawati proses analysis data yang meliputi:<br>
-- Data wrangling<br>
-- Exploratory Data Analysis<br>
-- Data Visualization<br>
-
+# E-Commerce-Public-Dashboard
+E-Commerce-Public-Dashboard adalah dashboard visualisasi data berbasis Streamlit yang menyediakan analisis mengenai penjulan yang merupakan hasil modifikasi dari dataset Shopping Cart Database yang dipublikasi dalam platform kaggle. Proses modifikasi ini bertujuan untuk memastikan dataset yang digunakan cukup merepresentasikan semua masalah yang umum dijumpai di industri. 
 Saat melakukan data wrangling diperlukan virtual environment, yang di buat dengan cara:<br>
 - Pipenv install<br>
 - Pipenv shell<br>
